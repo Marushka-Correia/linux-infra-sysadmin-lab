@@ -18,12 +18,12 @@
 - cd /var/log  - Navigate directly to a directory.
 
 ### 5. Important Linux Directories
-- / → Root filesystem
-- /home → User home directories
-- /etc → Configuration files
-- /var/log → System logs
-- /bin → Essential commands
-- /tmp → Temporary files
+- /           -> Root filesystem
+- /home       -> User home directories
+- /etc        -> Configuration files
+- /var/log    -> System logs
+- /bin        -> Essential commands
+- /tmp        -> Temporary files
 
 ### 6. Creating Files and Directories
 - mkdir day1-practice - create a directory
